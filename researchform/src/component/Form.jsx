@@ -55,7 +55,7 @@ const Form1 = () => {
           {/* Dive==1 */}
           <div>
             <h1 className="text-[130%] font-bold text-center text-white">
-              Examination Of Digital litracy
+              Examination Of Digital Literacy
             </h1>
           </div>
 
@@ -944,8 +944,6 @@ const Form1 = () => {
               &nbsp; No
             </label>{" "}
           </div>
-          <br />
-          <br />
           <div
             className="flex items-center justify-center"
           >
